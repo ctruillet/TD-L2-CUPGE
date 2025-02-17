@@ -55,5 +55,15 @@ Contact : *clement.truillet@irit.fr*
     - [Notation Polonaise Inverse](td4/exo3.md)
     - [Conversion d'expressions Infixées en Postfixées](td4/exo4.md)
 
+## TD 5 - Files
+- **File** : File avec Liste chaînée
+  - [Voir le code](td5/file.c)
+
+- **Exercice 1** : Inverser une file
+  - [Voir le code](td5/exo1.c)
+
+- **Exercice 2** : Fusionner deux files
+  - [Voir le code](td5/exo2.c)
+
 ---
 
