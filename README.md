@@ -51,7 +51,7 @@ Contact : *clement.truillet@irit.fr*
   - [Voir le code](TD4/pile2.c)
 
 - **Si vous voulez vous entrainer** :
-    - [Vérification de l'équilibre des parenth-ses, crochets et accolades](TD4/exo2.md)
+    - [Vérification de l'équilibre des parenthèses, crochets et accolades](TD4/exo2.md)
     - [Notation Polonaise Inverse](TD4/exo3.md)
     - [Conversion d'expressions Infixées en Postfixées](TD4/exo4.md)
 
