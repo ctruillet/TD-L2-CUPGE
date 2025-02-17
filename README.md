@@ -39,7 +39,7 @@ Contact : *clement.truillet@irit.fr*
 
 ## TD 3 - Pile
 
-- **Pile** : Implémentation avec un tableau
+- **Pile** : Implémentation avec un tableau + Inversion d'une chaine de caractère 
   - [Voir le code](TD3/pile.c)
 
 ## TD 4 - Pile et Liste Chainées
@@ -47,8 +47,13 @@ Contact : *clement.truillet@irit.fr*
 - **Exercice 1** : Liste chaînée
   - [Voir le code](TD4/exo1.c)
 
-- **Pile 2** : Implémentation avec une liste chaînée
+- **Pile 2** : Implémentation avec une liste chaînée + Equilibre des parenthèses
   - [Voir le code](TD4/pile2.c)
+
+- **Si vous voulez vous entrainer** :
+    - [Vérification de l'équilibre des parenth-ses, crochets et accolades](TD4/exo2.md)
+    - [Notation Polonaise Inverse](TD4/exo3.md)
+    - [Conversion d'expressions Infixées en Postfixées](TD4/exo4.md)
 
 ---
 
