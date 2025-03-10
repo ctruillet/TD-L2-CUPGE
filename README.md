@@ -86,5 +86,9 @@ Contact : *clement.truillet@irit.fr*
   - [Voir le dossier](td7/LinkedList)
 - **ABR** : Arbre Binaire de Recherche
   - [Voir le dossier](td7/ABR)
----
+- **HashTable** : Table de Hashage
+  - [Voir le dossier](td7/HashTable)
 
+## TD8 - Revisions / Projet
+
+---
