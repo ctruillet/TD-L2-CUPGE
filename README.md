@@ -56,6 +56,7 @@ Contact : *clement.truillet@irit.fr*
     - [Conversion d'expressions Infixées en Postfixées](td4/exo4.md)
 
 ## TD 5 - Files
+
 - **Types Abstraits de Données** : [TAD](td5/TAD.md)
 - **File** : File avec Liste chaînée
   - [Voir le code](td5/file.c)
@@ -65,6 +66,15 @@ Contact : *clement.truillet@irit.fr*
 
 - **Exercice 2** : Fusionner deux files
   - [Voir le code](td5/exo2.c)
+
+## TD 6 - Compilation séparée
+
+- **Makefile Sheet Cheat** : [Makefile](https://devhints.io/makefile)
+- **File** : Compilation séparée (file.c/h)
+  - [Voir le dossier](td6/file)
+
+- **Exercice 1** : Compilation séparée (pile.c/h, file.c/h, node.h)
+  - [Voir le dossier](td6/exo1)
 
 ---
 
