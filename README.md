@@ -76,5 +76,13 @@ Contact : *clement.truillet@irit.fr*
 - **Exercice 1** : Compilation séparée (pile.c/h, file.c/h, node.h)
   - [Voir le dossier](td6/exo1)
 
+## TD 7 - Compilation séparée
+
+- **Exercice 1** : Compilation séparée (pile.c/h, file.c/h, node.c/h)
+  - [Voir le dossier](td7/exo1)
+- **Vector** : Manipulation Vecteurs/Points
+  - [Voir le dossier](td7/vector)
+- **LinkedList** :Listes Simplement Chainée / Doublement Chainée
+  - [Voir le dossier](td7/LinkedList)
 ---
 
