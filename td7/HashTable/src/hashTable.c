@@ -23,8 +23,7 @@ unsigned int hash(char *key) {
 void insertValue(HashTable table, char *key, int value) {
     unsigned int hash_value = hash(key);
     HashNode new_node = (HashNode)malloc(sizeof(struct HashNode));
-    new_node->key = (char *)malloc(strlen(key) + 1);
-    strcpy(new_node->key, key);
+    new_node->key=strdup(key);
     new_node->value = value;
     new_node->next = table[hash_value];
     table[hash_value] = new_node;

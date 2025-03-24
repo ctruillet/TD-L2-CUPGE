@@ -2,7 +2,7 @@ MAKE = make
 GCC = gcc
 ECHO = echo
 LIBFLAGS = 
-CFLAGS = -Wall -g -ggdb -std=c99
+CFLAGS = -Wall -g -ggdb -std=c2x
 INCLUDE = include/
 SRC = $(wildcard src/*.c)
 MOVE = mv
